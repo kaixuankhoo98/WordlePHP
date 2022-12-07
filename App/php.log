@@ -1,0 +1,256 @@
+[07-Dec-2022 09:55:09 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 09:55:09 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_7037881603394af42ba3e0929f66e108, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 09:55:09 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 09:55:09 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 09:55:09 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_599db889db084de7da2cf961397f2877, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 09:55:09 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 10:39:27 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 10:39:27 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_748b0715bae4118f55b4e3df12453cae, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 10:39:27 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 10:39:30 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 10:39:30 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_928613468431ea1b4609e67b1e4756ea, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 10:39:30 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:19:32 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:19:32 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_f2c9630c186830e435510946cc4019d3, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:19:32 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:19:32 Europe/London] PHP Notice:  Array to string conversion in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\test.php on line 71
+[07-Dec-2022 11:19:57 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:19:57 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_aee3e2e621822e3c144edaa3ed3fc697, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:19:57 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:21:03 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:21:03 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_8def10b8d2542b3da868d7934f8dea56, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:21:03 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:23:23 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:23:23 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_c4ef978196fb7e034bdb0554ced248b5, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:23:23 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:23:23 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:23:23 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_c89778ac4a3cc60568549c98d967cabd, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:23:23 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:23:37 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:23:37 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_8b2eb928785f5cfe71d175ddc2385522, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:23:37 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:23:50 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:23:50 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_313f51afa872c84e5886865bda629963, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:23:50 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:26:33 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:26:33 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_e570dab1fef035c62ede26a134a0c989, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:26:33 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:26:33 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:33 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:33 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:33 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:33 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_1f179aede69a2c0d1ab955693d615f72, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:40 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_878631a46d201bc95672d9cbf87cec0c, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:26:46 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_cb20cec9861789b77d9b73de3eb63764, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:00 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_6ec4a501210472ea0776203cb0d10963, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:03 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_cf585041340e089926425e6597cfe122, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'j' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 's' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:28:07 Europe/London] PHP Warning:  Illegal string offset 't' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 54
+[07-Dec-2022 11:34:07 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:34:07 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_1a2b8483c9ee433e7ce97128600f8f59, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:07 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:11 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:34:11 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_5d3bf19a96d81fb6156b93d85ed2392b, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:11 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:11 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:11 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:11 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:11 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:11 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_21f1703c821d024326d84ea328f58dd9, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:15 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:26 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:34:26 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_7f02ea00999e14e9c5e0cc53c3d70000, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:26 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:26 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:26 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:26 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:26 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:26 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_c8c517dcd08b5f529274ce5f73da499c, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:31 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_6c5dd45c31cdbda74ff305d8da602759, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  Illegal string offset 'o' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 11:34:39 Europe/London] PHP Warning:  Illegal string offset 'u' in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 53
+[07-Dec-2022 17:21:24 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 17:21:24 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_d9ff5a341099e6669af898ba617c2171, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:21:24 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:22:12 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 17:22:12 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_536bbd2783318633ca8e68358f985113, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:22:12 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:22:16 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 17:22:16 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_d77eae62d676e792d923253d69764446, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:22:16 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:26:29 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 17:26:29 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_b8f634f5c8d50f5ad608fb538769308b, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:26:29 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:28:50 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 17:28:50 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_58589b3386f569dab41ab043569c6db3, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:28:50 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 3 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 72
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 4 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 72
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 3 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 81
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 3 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 81
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 3 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 81
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 3 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 81
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 3 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 81
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 4 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 81
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 4 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 81
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 4 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 81
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 4 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 81
+[07-Dec-2022 17:28:50 Europe/London] PHP Notice:  Uninitialized string offset: 4 in C:\Users\kkh01\Desktop\PP\Playground\WordlePHP\App\Word.php on line 81
+[07-Dec-2022 17:28:54 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 17:28:54 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_dc4ab0c8c58831127a954ca08b1222ec, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:28:54 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:29:00 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 17:29:00 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_03743880d57a65870de68f2e3ecc8721, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:29:00 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:29:07 Europe/London] PHP Warning:  mkdir(): No such file or directory in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 12
+[07-Dec-2022 17:29:07 Europe/London] PHP Warning:  session_start(): open(C:\Program Files\PHP\sessiondata\sess_55858171909463c3161e81cfe1929c5d, O_RDWR) failed: Permission denied (13) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
+[07-Dec-2022 17:29:07 Europe/London] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Program Files\PHP\sessiondata) in C:\Users\kkh01\Desktop\PP\ProvisioningPortal\php\include\autoprepend.php on line 24
